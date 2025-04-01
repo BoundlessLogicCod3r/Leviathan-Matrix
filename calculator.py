@@ -34,8 +34,6 @@ while True:
 
         else:
             print("Invalid Option")
-    else:
-        print("Not in options")
 
     
 
