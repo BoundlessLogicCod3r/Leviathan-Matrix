@@ -1,0 +1,23 @@
+Echo function writing/appending files: echo "Top of the morning" >/>> emptydoc.docx
+Touch - create new file (.py, .xls, .pub, .docx, .txt)
+Creating new folder: mkdir
+Multiple files  TOUCH . files-{01..99}.txt
+
+Finding specific files FIND . -NAME "FILE-00*"
+   "    empty files    FIND . -EMPTY "FILE-*"
+Deleting multiple files find . -name "("filename-*") -delete
+Piping
+
+find - file name within directory
+MV - Moving/renaming items from a directory to another
+
+Cat + filename Seeing contents within any file
+Cat > Overwrite something in a file
+Cat >> Append additional content 
+nano > -6 text editing
+less > -4
+head > -5
+LS lists all contents in a specified directory
+LN (sim link) file that points to another file/directory
+
+
